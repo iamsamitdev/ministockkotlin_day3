@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/drawable/ic_account.xml" value="0.18" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/drawable/ic_add.xml" value="0.18" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/drawable/ic_home.xml" value="0.2295" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/drawable/ic_product.xml" value="0.1865" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/drawable/ic_service.xml" value="0.18" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/font/notosanthai.xml" value="0.3661899897854954" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/adapter_product.xml" value="0.3359375" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_about.xml" value="0.3359375" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_account.xml" value="0.3359375" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_add_product.xml" value="0.33" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_notification.xml" value="0.33" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_product.xml" value="0.3359375" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_service.xml" value="0.3359375" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/fragment_setting.xml" value="0.3359375" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/layout/nav_header.xml" value="0.35221421215242016" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/menu/bottom_nav.xml" value="0.3359375" />
+        <entry key="..\:/TrainingWorkshop/AdvanceAndroidKotlin/ministockkotlin/app/src/main/res/menu/drawer_menu.xml" value="0.33489583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

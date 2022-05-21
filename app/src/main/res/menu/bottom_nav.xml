@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="หน้าหลัก" />
+
+    <item
+        android:id="@+id/productFragment"
+        android:icon="@drawable/ic_product"
+        android:title="สินค้า" />
+
+    <item
+        android:id="@+id/addProductFragment"
+        android:icon="@drawable/ic_add"
+        android:title="ลงประกาศ" />
+
+    <item
+        android:id="@+id/notificationFragment"
+        android:icon="@drawable/ic_notification"
+        android:title="แจ้งเตือน" />
+
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/ic_account"
+        android:title="ฉัน" />
+
+</menu>
